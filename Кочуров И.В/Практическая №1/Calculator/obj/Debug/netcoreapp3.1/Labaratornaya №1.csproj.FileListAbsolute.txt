@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.exe
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.deps.json
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.runtimeconfig.json
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.dll
+C:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Labaratornaya №1.pdb
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.dll
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.pdb
+C:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Labaratornaya №1.genruntimeconfig.cache

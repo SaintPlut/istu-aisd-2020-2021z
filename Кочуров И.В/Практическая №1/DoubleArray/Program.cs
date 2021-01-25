@@ -1,12 +1,12 @@
-using System;
+п»їusing System;
 namespace ConsoleApp1
 {
     class Program
     {
         static void Main()
         {
-            // Создал массив и инициализировал
-            Console.Write("Введите размер массива - ");
+            // РЎРѕР·РґР°Р» РјР°СЃСЃРёРІ Рё РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°Р»
+            Console.Write("Р’РІРµРґРёС‚Рµ СЂР°Р·РјРµСЂ РјР°СЃСЃРёРІР° - ");
             string text = Console.ReadLine();
             int size = Int32.Parse(text);
             double[] mass = new double[size];
@@ -15,7 +15,7 @@ namespace ConsoleApp1
                 mass[i] = i + 0.5;
                 Console.Write("|" + mass[i]);
             }
-            // поиск среднего знаения и суммы
+            // РїРѕРёСЃРє СЃСЂРµРґРЅРµРіРѕ Р·РЅР°РµРЅРёСЏ Рё СЃСѓРјРјС‹
             Console.WriteLine();
             double sum = 0;
             double midl = 0;
@@ -24,7 +24,7 @@ namespace ConsoleApp1
                 sum = sum + mass[k];
                 midl = sum / size;
             }
-            // поиск значения < midl 
+            // РїРѕРёСЃРє Р·РЅР°С‡РµРЅРёСЏ < midl 
             for (int k = 0; k < mass.Length; k++)
             {
                 if (mass[k] < midl)
@@ -36,8 +36,8 @@ namespace ConsoleApp1
                 Console.Write("|" + mass[k]);
             }
             Console.WriteLine();
-            Console.WriteLine("Сумма элементов = " + sum);
-            Console.WriteLine("Среднее значение = " + midl);
+            Console.WriteLine("РЎСѓРјРјР° СЌР»РµРјРµРЅС‚РѕРІ = " + sum);
+            Console.WriteLine("РЎСЂРµРґРЅРµРµ Р·РЅР°С‡РµРЅРёРµ = " + midl);
         }
     }
 }

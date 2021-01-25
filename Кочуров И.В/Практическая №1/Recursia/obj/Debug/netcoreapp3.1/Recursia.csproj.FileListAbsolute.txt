@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.exe
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.deps.json
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.runtimeconfig.json
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.dll
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\bin\Debug\netcoreapp3.1\Recursia.pdb
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.dll
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.pdb
+C:\Users\Admin\source\repos\Лабараторная №1\Recursia\obj\Debug\netcoreapp3.1\Recursia.genruntimeconfig.cache
